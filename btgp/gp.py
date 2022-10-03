@@ -1,8 +1,8 @@
 import math
 import torch
 import numpy as np
-from efficient_gp.utils import binary, matvec, matvec_with_just_weights, matvec_vectorizable, matvec_with_just_weights_vectorizable, rmse, TimeOutError, bit_array_to_byte_array
-from efficient_gp.bfgs import BFGS
+from btgp.utils import binary, matvec, matvec_with_just_weights, matvec_vectorizable, matvec_with_just_weights_vectorizable, rmse, TimeOutError, bit_array_to_byte_array
+from btgp.bfgs import BFGS
 from scipy.optimize import minimize, Bounds, basinhopping
 import os
 import errno
