@@ -3,7 +3,7 @@
 ## Getting started
 
 
-From the base `efficient_gps` directory run:
+From the base `btgp` directory run:
 
 `pip install -e .`
 
@@ -15,7 +15,7 @@ The experiments can be run using the ipython notebooks in the `notebooks/` direc
 The required uci datasets can be downloaded here:
 `https://file.io/ZK2fu0zOwZYp`
 
-The resulting `data.zip` file should be placed in the base `efficient_gp` directory and unzipped.
+The resulting `data.zip` file should be placed in the base `btgp` directory and unzipped.
 
 ## Running Experiments
 
