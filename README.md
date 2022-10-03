@@ -1,4 +1,4 @@
-# Linear-Time Gaussian Processes Using Binary Tree Kernels
+# Log-Linear-Time Gaussian Processes Using Binary Tree Kernels
 
 ## Getting started
 
