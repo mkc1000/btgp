@@ -13,7 +13,7 @@ The experiments can be run using the ipython notebooks in the `notebooks/` direc
 
 ## UCI Data
 The required uci datasets can be downloaded here:
-`https://file.io/ZK2fu0zOwZYp`
+`https://drive.google.com/file/d/0BxWe_IuTnMFcYXhxdUNwRHBKTlU/view?usp=sharing&resourcekey=0-InpkvMKN970nz4kpXqcd7w`
 
 The resulting `data.zip` file should be placed in the base `btgp` directory and unzipped.
 
