@@ -1,6 +1,6 @@
 import numpy as np
 import torch
-from efficient_gp.utils import (
+from btgp.utils import (
     conjgrad,
     matvec,
     matvec_with_just_weights,
