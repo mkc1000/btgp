@@ -1,6 +1,6 @@
 import numpy as np
 import torch
-from efficient_gp.gp import ONGP
+from btgp.gp import ONGP
 import os
 
 
