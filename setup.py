@@ -15,9 +15,9 @@ dev_requires = [
 ]
 
 setup(
-    name="efficient_gp",
+    name="btgp",
     version="0.1",
-    description="O(n) GP",
+    description="BTGP",
     author="Anonymous Authors",
     packages=find_packages(),
     install_requires=requirements,
